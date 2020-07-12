@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with ... Data Security
 - 💬 Ask me about ... Full Stack Web Development
 - 📫 How to reach me: ... prasenjitghose36@gmail.com
-- 😄 Pronouns: ... Ronnie
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I Love Apple and Microsoft
 
