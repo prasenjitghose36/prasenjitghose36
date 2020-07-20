@@ -11,5 +11,5 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ... Full Stack Web Development
 - 📫 How to reach me: ... prasenjitghose36@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I Love Apple and Microsoft
+- ⚡ Fun fact: ... E
 
