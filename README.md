@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ... Web Development 👩‍💻
+- 🔭 I’m currently working on ... Web Development 👩‍💻 and System Designing
 - 🌱 I’m currently learning ... Anything that makes me feel special
 - 👯 I’m looking to collaborate on ... Network Engineering and Data Security
 - 🤔 I’m looking for help with ... Data Security
