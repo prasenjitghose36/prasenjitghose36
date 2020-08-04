@@ -19,7 +19,7 @@ I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerl
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)
-- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile in there face. 
+- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face. 
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
 ---
 ![Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)
