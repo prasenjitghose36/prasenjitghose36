@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or lead a Organisation in my later carrier.  
+I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or System Engineer in my later carrier.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help to contribute for a social cause.
