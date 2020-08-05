@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-prasenjitghose36@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasenjitghose36@gmail.com)](mailto:prasenjitghose36@gmail.com)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
-[![Instagram followers](https://img.shields.io/instagram/followers/prasenjitghose36?label=Follow&style=social)](?tab=https://www.instagram.com/prasenjitghose36/follow)
+
 ---
 ## Hi there 👋,           
 I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or System Engineer in my later carrier.  
