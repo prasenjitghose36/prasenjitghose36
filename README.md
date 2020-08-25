@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 
 ---
-<center><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" /></center>
+<span aling="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" /></span>
 ## Hi there 👋,           
 I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or System Engineer in my later carrier.  
 
