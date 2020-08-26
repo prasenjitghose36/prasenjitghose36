@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 
 ---
-My Tech Stack :<p align = "center">
+<strong>Technology I am familiar with</strong> :<p align = "center">
   <img src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?&style=for-the-badge&logo=HTML&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS%20-%2300599C.svg?&style=for-the-badge&logo=CSS&logoColor=white"/> 
