@@ -5,6 +5,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 
 ---
+My Tech Stack :<p align = "center">
+  <img src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?&style=for-the-badge&logo=HTML&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS%20-%2300599C.svg?&style=for-the-badge&logo=CSS&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Processing%20-%23000.svg?&style=for-the-badge&logo=processing&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C%20-%23430098.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C++%20-%23430098.svg?&style=for-the-badge&logo=C++&logoColor=white"/> 
+</p>
 <p align = "center">
   
 <span aling="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" /></span>
