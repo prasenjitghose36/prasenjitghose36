@@ -25,11 +25,11 @@
 </p>
 
 ## Hi there 👋,           
-I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or System Engineer in my later carrier.  
+<strong>I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Tech Entrepreneur or System Engineer in my later carrier.</strong>  
 
 ## 🧐 About
-- 🏄‍ Community guy who loves being involved in communities and help to contribute for a social cause.
-- 😄 I will usually be a part of hackathons as a #Participants
+<strong>- 🏄‍ Community guy who loves being involved in communities and help to contribute for a social cause.</strong>
+<strong>- 😄 I will usually be a part of hackathons as a #Participants</strong>
 <!--- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
 - 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
 - 👯 And Many More...-->
@@ -37,9 +37,9 @@ I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerl
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)
-- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face. 
+<strong>- 💬 Ask me about anything and everything!</strong>
+<strong>- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)</strong>
+<strong>- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face.</strong>
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
 ---
 <!--[Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)-->
