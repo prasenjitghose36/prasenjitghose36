@@ -19,7 +19,7 @@
 </p>
 <p align = "center">
   
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />
+<!--<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />-->
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
 </p>
