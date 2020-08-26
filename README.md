@@ -38,7 +38,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <strong>- 💬 Ask me about anything and everything!</strong>
-<strong>- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)</strong>
+<strong>- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)</strong><br>
 <strong>- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face.</strong>
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
 ---
