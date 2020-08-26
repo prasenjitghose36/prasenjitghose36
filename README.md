@@ -18,8 +18,7 @@
 </p>
 <p align = "center">
   
-<span aling="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" /></span>
-
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />
 </p>
 
 ## Hi there 👋,           
@@ -41,8 +40,10 @@ I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerl
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
 ---
 <!--[Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)-->
+<p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true&theme=radical&layout=compact">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitghose36&hide=css,html&theme=tokyonight&layout=compact">
+  </p>
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
