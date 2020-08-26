@@ -1,6 +1,6 @@
 # Prasenjit Ghose 🤡
 [![Twitter Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrasenjitGhose7)](https://twitter.com/PrasenjitGhose7) [![Linkedin Badge](https://img.shields.io/badge/-prasenjitghose36-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasenjit-ghose-344a47183/)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->[![Facebook Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/prasenjit.ghose.90)](https://www.facebook.com/prasenjit.ghose.90) [![Instagram Badge](https://img.shields.io/badge/-@prasenjitghose36-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/prasenjitghose36/)](https://www.instagram.com/prasenjitghose36/)
-[![Medium Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=black&logo=Medium&logoColor=white&link=https://medium.com/@prasenjitghose36)](https://medium.com/@prasenjitghose36)
+[![Medium Badge](https://img.shields.io/badge/-@prasenjitghose36-000000?style=flat-square&labelColor=black&logo=Medium&logoColor=white&link=https://medium.com/@prasenjitghose36)](https://medium.com/@prasenjitghose36)
 [![Gmail Badge](https://img.shields.io/badge/-prasenjitghose36@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasenjitghose36@gmail.com)](mailto:prasenjitghose36@gmail.com)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
@@ -20,6 +20,8 @@
 <p align = "center">
   
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
 </p>
 
 ## Hi there 👋,           
