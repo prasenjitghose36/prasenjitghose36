@@ -24,7 +24,9 @@ I'm Prasenjit Ghose, Student at 👨‍💻 VSS University of Technology(Formerl
 - ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face. 
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
 ---
-![Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)
+<!--[Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)-->
+<img src = "https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true&theme=radical&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitghose36&hide=css,html&theme=tokyonight&layout=compact">
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
