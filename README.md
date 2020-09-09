@@ -12,6 +12,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 
+[!Github Profile Visit ]<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" /> </p>
+
 ---
 <strong>Technology I am familiar with</strong> :<p align = "center">
   <img src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
