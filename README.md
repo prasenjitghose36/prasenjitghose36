@@ -15,9 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" />
 </p>
-<br>
-<hr>
-
 <!--## 🐐 El Luchador: Lionel Messi
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zhc2Zidm5mZXZidW1ieXBlbTVuZXh5Znl6bm55eGZ5em5ueGZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOflvR7M6iE45W/giphy.gif" width="600" alt="Barca 2015 MSN Celebration" />
 
