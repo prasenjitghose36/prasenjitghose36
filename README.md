@@ -1,3 +1,41 @@
+<div align="center">
+
+<h1 align="center">👋 Hey, I'm Prasenjit Ghose</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=680&lines=Network+Security+Engineer+%40+SonicWall+Inc+🛡️;Linux+Enthusiast+%7C+DevOps+%7C+LLMOps+🐧;DevOps+cum+Cloud+Engineer+in+the+Making+☁️;Solving+Real+Problems+with+Technology+💡;Manifesting+to+Contribute+to+Society+🔜)](https://git.io/typing-svg)
+
+#### Manifesting to contribute to the society through technology by solving Problems - Coming 🔜
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasenjit--ghose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/)
+[![Gmail](https://img.shields.io/badge/Gmail-prasenjitghose36-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasenjitghose36@gmail.com)
+[![X](https://img.shields.io/badge/@jokingbrat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jokingbrat?s=21)
+
+[![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Watch the Snake eat my contributions!
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+
+
+
 <!--<h1 align="center">👋 Hey, I'm Prasenjit Ghose</h1>-->
 <!--## Love for Linux, DevOps, LLMOps, DevOps -->
 
@@ -8,7 +46,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-prasenjitghose36-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasenjitghose36@gmail.com)
 [![X](https://img.shields.io/badge/X-@jokingbrat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jokingbrat?s=21)-->
 
-<div align="center">
+<!--<div align="center">
 
 <h1 align="center">👋 Hey, I'm Prasenjit Ghose</h1>
 
@@ -23,7 +61,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)<p align="left"><p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" />
 </p>
-</div>
+</div>-->
+
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrasenjitGhose7)](https://twitter.com/PrasenjitGhose7) [![Linkedin Badge](https://img.shields.io/badge/-prasenjitghose36-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasenjit-ghose-344a47183/)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)[![Facebook Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/prasenjit.ghose.90)](https://www.facebook.com/prasenjit.ghose.90) [![Instagram Badge](https://img.shields.io/badge/-@prasenjitghose36-red?style=flat-square&labelColor=pink&logo=instagram&logoColor=black&link=https://www.instagram.com/prasenjitghose36/)](https://www.instagram.com/prasenjitghose36/)
 [![Medium Badge](https://img.shields.io/badge/-@prasenjitghose36-000000?style=flat-square&labelColor=black&logo=Medium&logoColor=white&link=https://medium.com/@prasenjitghose36)](https://medium.com/@prasenjitghose36)
