@@ -18,10 +18,10 @@
 <br>
 <hr>
 
-## 🐐 El Luchador: Lionel Messi
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53emZ6OHBrZDJreHljbTFmZGt3eXhyM2Z6ZnhyeHhyeHhyeHhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKv6clZ89f9eVCg/giphy.gif" width="500" style="border-radius: 15px;" />
+<!--## 🐐 El Luchador: Lionel Messi
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zhc2Zidm5mZXZidW1ieXBlbTVuZXh5Znl6bm55eGZ5em5ueGZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOflvR7M6iE45W/giphy.gif" width="600" alt="Barca 2015 MSN Celebration" />
 
-<br>
+<br>-->
 
 ### 🏆 My Blaugrana Contribution Journey
   
