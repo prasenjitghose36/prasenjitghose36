@@ -1,19 +1,21 @@
-# Prasenjit Ghose 🤡
+# Prasenjit Ghose - Currently working as Network Security Engineer at Sonicwall Inc 🛜
+## Love for Linux, DevOps, LLMOps, DevOps 
+### Manifesting to be a Great Engineer - Coming 🔜
 <!--[![Twitter Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrasenjitGhose7)](https://twitter.com/PrasenjitGhose7) [![Linkedin Badge](https://img.shields.io/badge/-prasenjitghose36-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasenjit-ghose-344a47183/)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)[![Facebook Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/prasenjit.ghose.90)](https://www.facebook.com/prasenjit.ghose.90) [![Instagram Badge](https://img.shields.io/badge/-@prasenjitghose36-red?style=flat-square&labelColor=pink&logo=instagram&logoColor=black&link=https://www.instagram.com/prasenjitghose36/)](https://www.instagram.com/prasenjitghose36/)
 [![Medium Badge](https://img.shields.io/badge/-@prasenjitghose36-000000?style=flat-square&labelColor=black&logo=Medium&logoColor=white&link=https://medium.com/@prasenjitghose36)](https://medium.com/@prasenjitghose36)
 [![Gmail Badge](https://img.shields.io/badge/-prasenjitghose36@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasenjitghose36@gmail.com)](mailto:prasenjitghose36@gmail.com)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 
 
-<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918018655222)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prasenjit.ghose.90)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prasenjitghose36/)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/PrasenjitGhose7)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prasenjit-ghose-344a47183/)</a> 
-<a>[<img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@prasenjitghose36)</a>
+<!--<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918018655222)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prasenjit.ghose.90)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prasenjitghose36/)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/PrasenjitGhose7)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prasenjit-ghose-344a47183/)</a> 
+<a>[<img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@prasenjitghose36)</a>-->
 
 
 
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" /></p>
 
 ---
-<strong>Technology I am familiar with</strong> :<p align = "center">
+<!--<strong>Technology I am familiar with</strong> :<p align = "center">
   <img src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?&style=for-the-badge&logo=HTML&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS%20-%2300599C.svg?&style=for-the-badge&logo=CSS&logoColor=white"/> 
@@ -28,7 +30,7 @@
   
 <!--<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />-->
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
+<!--<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
 </p>
 
 ## Hi there 👋,           
@@ -42,18 +44,17 @@
 - 👯 And Many More...-->
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!--# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <strong>- 💬 Ask me about anything and everything!</strong>
 <strong>- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)</strong><br>
 <strong>- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face.</strong>
 <!--- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like-->
----
 <!--[Prasenjit's github stats](https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true)-->
-<p align = "center">
+<!--<p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=prasenjitghose36&show_icons=true&theme=radical&layout=compact">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitghose36&hide=css,html&theme=tokyonight&layout=compact">
-  </p>
+  </
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
