@@ -1,9 +1,9 @@
-name: Generate Snake Game
+name: Generate Barca Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,13 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Barca Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#FFD700&color_dots=#ebedf0,#154284,#8B0D32,#A50044,#EDBB00
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD700&color_dots=#161b22,#001E4C,#6B0F24,#A50044,#FFD700
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
