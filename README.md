@@ -15,20 +15,25 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" />
 </p>
+<br>
+<hr>
 
-</div>
+## 🐐 El Luchador: Lionel Messi
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53emZ6OHBrZDJreHljbTFmZGt3eXhyM2Z6ZnhyeHhyeHhyeHhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKv6clZ89f9eVCg/giphy.gif" width="500" style="border-radius: 15px;" />
 
----
+<br>
 
-<div align="center">
-  
-### 🐍 Watch the Snake eat my contributions!
+### 🏆 My Blaugrana Contribution Journey
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
+  <img alt="Barca contribution snake" src="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+_"I start early and I stay late, day after day, year after year."_
 
 </div>
 
