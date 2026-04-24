@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👋 Hey, I'm Prasenjit Ghose</h1>
+<h1>👋 Hey, I'm Prasenjit Ghose</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=680&lines=Network+Security+Engineer+%40+SonicWall+Inc+🛡️;Linux+Enthusiast+%7C+DevOps+%7C+LLMOps+🐧;DevOps+cum+Cloud+Engineer+in+the+Making+☁️;Solving+Real+Problems+with+Technology+💡;Manifesting+to+Contribute+to+Society+🔜)](https://git.io/typing-svg)
 
@@ -9,31 +9,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prasenjit--ghose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/)
 [![Gmail](https://img.shields.io/badge/Gmail-prasenjitghose36-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasenjitghose36@gmail.com)
 [![X](https://img.shields.io/badge/@jokingbrat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jokingbrat?s=21)
-
 [![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasenjitghose36" alt="prasenjitghose36" />
+  <img src="https://komarev.com/ghpvc/?username=prasenjitghose36&color=00D4AA&style=flat-square" alt="prasenjitghose36" />
 </p>
-<!--## 🐐 El Luchador: Lionel Messi
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zhc2Zidm5mZXZidW1ieXBlbTVuZXh5Znl6bm55eGZ5em5ueGZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOflvR7M6iE45W/giphy.gif" width="600" alt="Barca 2015 MSN Celebration" />
 
-<br>-->
+<hr>
 
-### 🏆 My Blaugrana Contribution Journey
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ5em5ueGZ5em5ueGZ5em5ueGZ5em5ueGZ5em5ueGZ5em5ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duNow73P03sA2KjYvD/giphy.gif" width="150" alt="Cute Otter" />
+
+### My Contribution Journey
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
-  <img alt="Barca contribution snake" src="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/prasenjitghose36/prasenjitghose36/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
-
-_"I start early and I stay late, day after day, year after year."_
-
 </div>
-
 
 
 
