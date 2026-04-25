@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=680&lines=Network+Security+Engineer+%40+SonicWall+Inc+🛡️;Linux+Enthusiast+%7C+DevOps+%7C+LLMOps+🐧;DevOps+cum+Cloud+Engineer+in+the+Making+☁️;Solving+Real+Problems+with+Technology+💡;Manifesting+to+Contribute+to+Society+🔜)](https://git.io/typing-svg)
 
-#### Manifesting to contribute to the society through technology by solving Problems - Coming 🔜
+#### Manifesting to contribute to the society through technology by solving Problems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prasenjit--ghose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/)
 [![Gmail](https://img.shields.io/badge/Gmail-prasenjitghose36-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasenjitghose36@gmail.com)
